@@ -38,6 +38,6 @@ app.use(function(err, req, res, next) {
   res.render('error');
 });
 
-console.log("test")
+console.log("tes2")
 
 module.exports = app;
